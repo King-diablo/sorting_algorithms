@@ -1,2 +1,2 @@
-# sorting_algorithms
+# Learing sorting_algorithms & Big O
  
